@@ -1,0 +1,53 @@
+
+    [
+    {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/149525/a-class-limousine-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "title": "Mercedes",
+        "subtitle": "Benz A-Class",
+        "type": "Sports car Roadster",
+        "Fuel": "Petrol & Diesel",
+        "price": "Rs. 46.05 Lakh",
+        "Dtitle": "Mercedes-Benz A-Class Limousine 2024 Verdict",
+        "description":"In a market mesmerized with SUVs, the new A-Class has to fight with all its might. What it has, though, is performance, space, tech and extra features expected in its segment."
+    },
+    {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/48034/2-series-gran-coupe-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "title": "BMW",
+        "subtitle": " 2 Series Gran Coupe",
+        "class": "Sports car Roadster",
+        "Fuel": "Petrol & Diesel",
+        "price": "Rs. 43.90 Lakh - Rs. 46.90 Lakh",
+        "Dtitle": "BMW 2 Series Gran Coupe Car Review",
+        "description":"“Is it the Night Fury?” asked my nephew when I showed him the picture of the BMW 2 Series Gran Coupe you see here. ‘No, that’d be the Black Shadow edition of it’."
+    },
+    {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/51909/a4-exterior-right-front-three-quarter-2.jpeg?q=80",
+        "title": "Audi A4",
+        "subtitle": " Audi A4",
+        "class": "Sports car Roadster",
+        "Fuel": "Petrol & Diesel",
+        "price": " Rs. 45.34 Lakh - Rs. 53.50 Lakh",
+        "Dtitle": "Audi A4 2024 Verdict",
+        "description":"The A4, even with the facelift, might still look a tad too subtle compared to the competition, but it's only once you get behind the wheel that you know its true potential. No, it's not a driver's car like the BMW 3, or as charming as the Mercedes-Benz C-Class, but the new A4 is a very fine balance of sporty and elegance."
+    },
+    {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/158937/superb-exterior-right-front-three-quarter-6.png?isig=0&q=80",
+        "title": "Skoda",
+        "subtitle": "Superb",
+        "class": "Sports car Roadster",
+        "Fuel": "Petrol & Diesel",
+        "price": " Rs. 54.00 Lakh",
+        "Dtitle": "Skoda Superb 2024 Verdict",
+        "description":"The Superb, even with the facelift, might still look a tad too subtle compared to the competition, but it's only once you get behind the wheel that you know its true potential. No, it's not a driver's car like the BMW 3, or as charming as the Mercedes-Benz C-Class, but the new A4 is a very fine balance of sporty and elegance."
+    },
+    {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/14054/huracan-evo-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "title": "Lamborghini ",
+        "subtitle": "Huracan Evo",
+        "class": "Sports car Roadster",
+        "Fuel": "Petrol & Diesel",
+        "price": " Rs. 3.22 Crore onwards",
+        "Dtitle": "Lamborghini Huracan Evo",
+        "description":"Lamborghini’s of old have always had a reputation of just looking good and having a vocal engine to thrill you in a straight-line, not much else. But the Huracan completely crushes this theory and turns out to be as stunning to drive, as it is to look at."
+    }
+]
